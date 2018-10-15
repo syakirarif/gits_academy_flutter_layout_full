@@ -1,6 +1,6 @@
-# flutter_pancasila
+# Full Project of Pancasila App
 
-Project latihan codelabs flutter responsive
+Project latihan GITS Codelabs untuk course Flutter Responsive Layout
 
 ## Getting Started
 
